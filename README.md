@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python,Html,CSS,JS,React**
+- 💬 Ask me about **Python,Html,CSS,JS,Machine Learning**
 
 - 📫 How to reach me **adanmohammad80@gmail.com**
 
