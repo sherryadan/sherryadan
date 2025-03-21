@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Html,CSS,JS,React,PYTHON**
+- 💬 Ask me about **Html,CSS,JS,ReactJs**
 
 - 📫 How to reach me **adanmohammad80@gmail.com**
 
