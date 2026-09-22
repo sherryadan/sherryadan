@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Adan Mohammad</h1>
 
 <h3 align="center">
@@ -280,15 +279,8 @@ I'm interested in collaborating on:
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Building software. Exploring intelligence. Engineering solutions through code and research.</i>
 </p>
-```
 
-The biggest change here is **positioning**. Your old profile says *“I’m learning MERN.”* This one says *“I am a software engineer who builds systems and is expanding into computational research.”* That distinction matters when a recruiter, researcher, professor, or potential collaborator lands on your GitHub.
-
-I also deliberately gave **bioinformatics/research its own section rather than mixing it into your software stack**. React, FastAPI, Pandas, genomic analysis, AMR, and FASTA aren't the same category, and throwing everything into one “skills” section can make a profile look inflated. This structure shows that you have a primary engineering stack and a developing research/computational stack.
-
-One thing I'd do next is **upgrade the repositories underneath this README**. Your profile README can be excellent, but your pinned repositories need to prove it. Ideally, your six pinned repos should eventually demonstrate **Full Stack / Backend API / Python or Data Science / Bioinformatics-AMR / AI / Teaching or Open Source** rather than several similar beginner web projects. That would make the entire GitHub profile much stronger for both software jobs and future research/PhD applications.
