@@ -28,7 +28,7 @@ Software Engineering, AI, Bioinformatics & Genomic Data Analysis.
 - 💻 **Full-Stack Software Engineer** working across frontend, backend, databases, APIs, and deployment
 - 🎓 Pursuing an **MS in Computer Science** at the University of Agriculture Faisalabad
 - 🧬 Currently working on **One Health Disease Surveillance, Bioinformatics, Genomics & Antimicrobial Resistance (AMR) Analysis**
-- 🔬 Researching genomic AMR patterns in pathogens including **Pseudomonas aeruginosa**
+- 🔬 Researching genomic AMR patterns in pathogens
 - 👨‍🏫 **Full-Stack Development Instructor**, teaching project-driven software development
 - 🧠 Exploring **AI Engineering, Machine Learning, RAG & Agentic AI**
 - 🚀 Experienced in building and maintaining real-world production applications
